@@ -16,3 +16,5 @@ Components used for hardware
 My project is simply controlling a door lock,a bulb and a fan from a local host.
 Yu can access the local host by connecting a hotspot to the nodemcu wifi, and typing your local ip in the address bar.
 Then the controller is simply yours.
+
+*******don't forget to change the wifi ssid and password in the code to connect the respected hotspot.*********
